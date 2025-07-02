@@ -26,5 +26,13 @@ A fun and interactive PacMan game created using Java's Swing and AWT libraries. 
    Add your image assets (e.g. wall.png, pacmanRight.png, blueGhost.png, etc.) inside the project directory.
 
 Compile and run the game:
+
+
 javac PacMan.java
+
 java PacMan
+
+Controls
+Use Arrow keys ⬆️ ⬇️ ⬅️ ➡️ to move PacMan.
+
+The game restarts on Game Over when any key is pressed.
