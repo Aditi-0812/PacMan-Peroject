@@ -23,3 +23,8 @@ A fun and interactive PacMan game created using Java's Swing and AWT libraries. 
    ```bash
    git clone https://github.com/Aditi-0812/PacMan-Peroject.git
    cd PacMan-Peroject
+   Add your image assets (e.g. wall.png, pacmanRight.png, blueGhost.png, etc.) inside the project directory.
+
+Compile and run the game:
+javac PacMan.java
+java PacMan
